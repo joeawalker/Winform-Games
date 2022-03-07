@@ -1,5 +1,7 @@
 # Winform-Games
-A small collection of games written in C# as WinForm applications using Visual Studio
+A small collection of games written in C# as WinForm applications using Visual Studio.
+The games aren't completely polished and were made very quickly as small challenges to myself so bugs are present!
+To test them out download the release folder and run testing.exe. You will need to have the .NET Framework installed on your computer for this to work.
 
 <br>
 
