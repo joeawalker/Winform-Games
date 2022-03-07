@@ -6,7 +6,7 @@ A small collection of games written in C# as WinForm applications using Visual S
 ## **Chess**
 
 <p align="center">
-  <img width="450" height="450" src="https://raw.githubusercontent.com/joeawalker/Winform-Games/main/images/chess.JPG">
+  <img width="480" height="430" src="https://raw.githubusercontent.com/joeawalker/Winform-Games/main/images/chess.JPG">
 </p>
 
 ## **Tic Tac Toe**
