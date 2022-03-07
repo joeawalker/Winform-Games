@@ -1,0 +1,13 @@
+C:\Users\joseph.walker\source\repos\Testing\Testing\bin\Release\Testing.exe.config
+C:\Users\joseph.walker\source\repos\Testing\Testing\bin\Release\Testing.exe
+C:\Users\joseph.walker\source\repos\Testing\Testing\bin\Release\Testing.pdb
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.Properties.Resources.resources
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.csproj.GenerateResource.cache
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.csproj.CoreCompileInputs.cache
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.exe
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.pdb
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.csproj.AssemblyReference.cache
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.TicTacToe.resources
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.Chess.resources
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.selectApplication.resources
+C:\Users\joseph.walker\source\repos\Testing\Testing\obj\Release\Testing.MS.resources
